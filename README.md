@@ -18,4 +18,5 @@ contributing to the literature on allostatic anticipation and effective regulato
 methodological recommendations for further research are given based on the limitations found in
 the development of this study.</p> 
 <br>
+
 #### Keywords: Behavioral Regulation, Allostasis, Homeostasis, Conflict resolution, Biomimetic Robotics.
