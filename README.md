@@ -1,6 +1,6 @@
 # OVERCOMING ALLOSTATIC CHALLENGES THROUGH PREDICTIVE ROBOT REGULATORY BEHAVIOR
 ### Abstract:
-Internal processes such as homeostasis and allostasis operate to keep the internal environment
+<p align="justify"> Internal processes such as homeostasis and allostasis operate to keep the internal environment
 within desired conditions to sustain fitness by satisfying rising needs such as thirst or hunger.
 However, when two or more needs are to be satisfied, the organism faces a conflict and based on
 diverse factors, from interoceptive sensations to external stimuli from the environment, one of the
@@ -16,6 +16,6 @@ over time compared to the reactive one. The results show a significant reduction
 error on both conditions upon the addition of the feedforward controller, supporting and
 contributing to the literature on allostatic anticipation and effective regulatory control. Moreover,
 methodological recommendations for further research are given based on the limitations found in
-the development of this study.
+the development of this study.</p> 
 <br>
 #### Keywords: Behavioral Regulation, Allostasis, Homeostasis, Conflict resolution, Biomimetic Robotics.
